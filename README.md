@@ -37,7 +37,7 @@
 <br/>
 
 <a href="https://github.com/vyshnav-alppara">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaidkazi&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyshnav-alppara&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -45,7 +45,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://in.linkedin.com/in/vyshnav-alppara"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Obaid%20Kazi-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:Vaishnavalppara@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-obaidkazi03@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://in.linkedin.com/in/vyshnav-alppara"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-vyshnav%20Kazi-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:Vaishnavalppara@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Vaishnavalppara@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
