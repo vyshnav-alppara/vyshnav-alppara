@@ -4,24 +4,22 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; BTECH Graduate Computer Engineering from Kerala Technical University .
-- 💼 &nbsp; Working as a Software Developer at Zil Money.
-- 🌱 &nbsp; Learning more about Laravel,flutter,javascript and many more things.
+- 💼 &nbsp; Working as a Laravel Backend Developer at Jointech UAE.
+- 🌱 &nbsp; Learning more about Laravel.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+   ![Laravel](https://img.shields.io/badge/-laravel-333333?style=flat&logo=laravel)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Vue](https://img.shields.io/badge/-Vue.js-35495E?style=flat&logo=vuedotjs)
 - 🌐 &nbsp;
+  ![Php](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Php](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-  ![Laravel](https://img.shields.io/badge/-laravel-333333?style=flat&logo=laravel)
-  ![Angular](https://img.shields.io/badge/-angular-333333?style=flat&logo=angular)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
