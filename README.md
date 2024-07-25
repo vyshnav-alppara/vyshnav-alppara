@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; CSE BTECH Graduate CSE.
+- 🎓 &nbsp; BTECH Graduate CSE.
 - 💼 &nbsp; Working as a Laravel Backend Developer at Jointech UAE.
 - 🌱 &nbsp; Learning more about Laravel.
 
