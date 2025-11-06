@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; BTECH Graduate CSE.
-- 💼 &nbsp; Working as a Laravel Backend Developer at Jointech UAE.
+- 💼 &nbsp; Working as a Laravel Backend Developer at Snagx Kuwait.
 - 🌱 &nbsp; Learning more about Laravel.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
